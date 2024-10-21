@@ -9,12 +9,16 @@ be visualized in graphs for a comprehensive understanding by December 15, 2024.
 SMART Elements:
 • Specific: Analyze Taylor Swift’s lyrics for references to time (day, night, midnight) and perform
 sentiment analysis.
+
 • Measurable: The frequency of keyword mentions and sentiment scores (positive, negative,
 neutral, compound) will be used as measurable indicators.
+
 • Assignable: Assigned to Abhrajit, responsible for completing the data analysis and reporting
 findings.
+
 • Realistic: The project will be executed using publicly available datasets and Python libraries
 such as pandas, nltk, and matplotlib.
+
 • Time-related: The analysis and report will be completed by December 15, 2024.
 
 Objectives:
