@@ -75,7 +75,7 @@ Assumptions, Risks, Obstacles:
 
 1.3. Sentiment analysis results will provide meaningful insights despite subjective interpretations.
 
-3.	Risks:
+2.	Risks:
    
 2.1. Pre-trained sentiment models may misinterpret context or metaphorical language in the lyrics.
   	
@@ -83,7 +83,7 @@ Assumptions, Risks, Obstacles:
 
 2.3. Ambiguity in sentiment scoring may lead to less precise results.
 
-5.	Obstacles:
+3.	Obstacles:
    
 3.1. Preprocessing lyrics data (e.g., removing noise and punctuation) while preserving context may be challenging.
   	
