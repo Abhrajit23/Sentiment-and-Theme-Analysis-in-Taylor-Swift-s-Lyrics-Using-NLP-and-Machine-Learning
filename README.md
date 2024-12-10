@@ -26,28 +26,47 @@ The report will be completed by December 10, 2024, with the final presentation b
 Objectives:
 1.	Outcome:
 Perform basic Exploratory Data Analysis (EDA) on Taylor Swift's lyrics.
+
 a.	Time Frame: By October 15, 2024
+
 b.	Measure: Identify word frequencies, visualize distributions, and preprocess data for NLP tasks.
+
 c.	Action: Use Python libraries like pandas, matplotlib, and seaborn for data exploration and cleaning.
-2.	Outcome:
-Train and evaluate machine learning models to perform sentiment analysis.
-a.	Time Frame: By November 12, 2024
-b.	Measure: Assess accuracy, F1-score, precision, and recall of models (Logistic Regression, Naive Bayes, SVM, Random Forest, LSTM).
-c.	Action: Implement various models using scikit-learn and TensorFlow to predict sentiment classes (positive, neutral, negative).
+
 3.	Outcome:
-Refine the models and explore additional algorithms to improve sentiment prediction accuracy.
-a.	Time Frame: By December 3, 2024
-b.	Measure: Track model accuracy and performance metrics for each iteration.
-c.	Action: Optimize hyperparameters and train additional models for comparative evaluation.
-4.	Outcome:
-Finalize the research paper with comprehensive findings and visualizations.
-a.	Time Frame: By December 10, 2024
-b.	Measure: Complete a structured research paper with analysis results, visualizations, and model comparisons.
-c.	Action: Compile results and insights into a polished document.
+Train and evaluate machine learning models to perform sentiment analysis.
+
+a.	Time Frame: By November 12, 2024
+
+b.	Measure: Assess accuracy, F1-score, precision, and recall of models (Logistic Regression, Naive Bayes, SVM, Random Forest, LSTM).
+
+c.	Action: Implement various models using scikit-learn and TensorFlow to predict sentiment classes (positive, neutral, negative).
+
 5.	Outcome:
+Refine the models and explore additional algorithms to improve sentiment prediction accuracy.
+
+a.	Time Frame: By December 3, 2024
+
+b.	Measure: Track model accuracy and performance metrics for each iteration.
+
+c.	Action: Optimize hyperparameters and train additional models for comparative evaluation.
+
+7.	Outcome:
+Finalize the research paper with comprehensive findings and visualizations.
+
+a.	Time Frame: By December 10, 2024
+
+b.	Measure: Complete a structured research paper with analysis results, visualizations, and model comparisons.
+
+c.	Action: Compile results and insights into a polished document.
+
+9.	Outcome:
 Prepare and deliver the Final Presentation.
+
 a.	Time Frame: By December 17, 2024
+
 b.	Measure: Present findings with a clear narrative, supported by visuals and quantitative analysis.
+
 c.	Action: Develop presentation slides and rehearse delivery.
 
 
