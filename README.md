@@ -1,4 +1,5 @@
-PROJECT OVERVIEW STATEMENT	
+PROJECT OVERVIEW STATEMENT
+
 Project Name: Sentiment and Theme Analysis in Taylor Swift's Lyrics Using NLP and Machine Learning Models	
 
 Student Name: Abhrajit Das
