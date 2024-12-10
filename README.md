@@ -55,10 +55,13 @@ Success Criteria:
 The project will be considered successful if:
 •	Completion Date:
 The research paper is finalized by December 10, 2024, and the final presentation is delivered by December 17, 2024.
+
 •	Project Deliverables:
 The analysis identifies time-related mentions and provides sentiment trends across albums with clear visualizations and reliable sentiment metrics.
+
 •	Effective Demonstration:
 The sentiment analysis achieves an accuracy of over 85% for one or more models, supported by detailed evaluation metrics (precision, recall, F1-score).
+
 •	Comprehensive Insights:
 Results offer meaningful insights into the evolution of Taylor Swift’s lyrical themes and sentiments, supported by data visualizations that are easy to interpret.
 
