@@ -69,14 +69,22 @@ Results offer meaningful insights into the evolution of Taylor Swift’s lyrical
 Assumptions, Risks, Obstacles:
 1.	Assumptions:
 1.1. The lyrics dataset is accurate, complete, and contains all relevant albums.
+  	
 1.2. NLP libraries (e.g., nltk, pandas) and machine learning tools (e.g., scikit-learn, TensorFlow) will be sufficient for the analysis.
+
 1.3. Sentiment analysis results will provide meaningful insights despite subjective interpretations.
-2.	Risks:
+
+3.	Risks:
 2.1. Pre-trained sentiment models may misinterpret context or metaphorical language in the lyrics.
+  	
 2.2. Keyword-based analysis may overlook nuanced time-related references.
+
 2.3. Ambiguity in sentiment scoring may lead to less precise results.
-3.	Obstacles:
+
+5.	Obstacles:
 3.1. Preprocessing lyrics data (e.g., removing noise and punctuation) while preserving context may be challenging.
+  	
 3.2. Iterative refinement of models and visualizations may delay progress.
+
 3.3. Limited time for model optimization and reporting may pose a challenge.
 
