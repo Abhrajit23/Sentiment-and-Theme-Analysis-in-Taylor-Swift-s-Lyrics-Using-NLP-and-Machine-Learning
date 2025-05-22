@@ -1,112 +1,112 @@
-PROJECT OVERVIEW STATEMENT
+# 🎤 Sentiment and Theme Analysis in Taylor Swift's Lyrics Using NLP and Machine Learning
 
-Project Name: Sentiment and Theme Analysis in Taylor Swift's Lyrics Using NLP and Machine Learning Models	
+### 👤 Author: Abhrajit Das
 
-Student Name: Abhrajit Das
+🎓 *Seidenberg School of Computer Science and Information Systems, Pace University*
 
-Problem/Opportunity:
-This project explores how time-related references (e.g., day, night, midnight) in Taylor Swift's lyrics have evolved throughout her career and investigates how these references align with the sentiment expressed in her songs. This analysis bridges a gap in understanding lyrical patterns and emotional tones, offering insights into her artistic evolution and how sentiment varies between time themes.
+---
 
+## 📌 Project Overview
 
-Goal:
-The project aims to analyze the lyrical content of Taylor Swift's songs to track the frequency of time-related themes ("day," "night," and "midnight") and perform sentiment analysis to uncover emotional trends across her albums. Using Natural Language Processing (NLP), machine learning models, and Python libraries, the project seeks to deliver a clear, data-driven report by December 17, 2024
-SMART Elements:
-1.	Specific:
-Analyze Taylor Swift’s lyrics for references to time (day, night, midnight) and conduct sentiment analysis for emotional tone.
-2.	Measurable:
-Use keyword frequency counts and sentiment scores (positive, negative, neutral, compound) as measurable indicators.
-3.	Assignable:
-Assigned to Abhrajit, who is responsible for executing analysis, modeling, and reporting findings.
-4.	Realistic:
-Publicly available datasets and Python libraries (e.g., pandas, nltk, matplotlib) will be used to execute the analysis.
-5.	Time-related:
-The report will be completed by December 10, 2024, with the final presentation by December 17, 2024.
+This project explores the **evolution of time-related themes** (e.g., *day*, *night*, *midnight*) in Taylor Swift’s lyrics and how these correlate with the **emotional sentiment** expressed in her songs. By applying **Natural Language Processing (NLP)** and **machine learning models**, the analysis uncovers trends in both language and emotion across her discography.
 
+The goal is to deliver a **data-driven report** supported by visualizations and sentiment metrics, offering meaningful insight into her lyrical and artistic development.
 
-Objectives:
-1.	Outcome:
-Perform basic Exploratory Data Analysis (EDA) on Taylor Swift's lyrics.
+---
 
-a.	Time Frame: By October 15, 2024
+## 🎯 SMART Goal
 
-b.	Measure: Identify word frequencies, visualize distributions, and preprocess data for NLP tasks.
+| Element        | Detail                                                                                 |
+| -------------- | -------------------------------------------------------------------------------------- |
+| **Specific**   | Analyze lyrics for "day," "night," "midnight" references and overall sentiment trends  |
+| **Measurable** | Track keyword frequencies and sentiment scores (positive, neutral, negative, compound) |
+| **Assignable** | Assigned to Abhrajit Das                                                               |
+| **Realistic**  | Uses Python (pandas, NLTK, matplotlib), scikit-learn, and TensorFlow                   |
+| **Time-bound** | Final report by **December 10, 2024**, presentation by **December 17, 2024**           |
 
-c.	Action: Use Python libraries like pandas, matplotlib, and seaborn for data exploration and cleaning.
+---
 
-3.	Outcome:
-Train and evaluate machine learning models to perform sentiment analysis.
+## 🧩 Objectives & Timeline
 
-a.	Time Frame: By November 12, 2024
+### 📌 Objective 1: Exploratory Data Analysis (EDA)
 
-b.	Measure: Assess accuracy, F1-score, precision, and recall of models (Logistic Regression, Naive Bayes, SVM, Random Forest, LSTM).
+* **Time Frame**: By October 15, 2024
+* **Measure**: Word frequencies, visual distributions, data cleaned
+* **Action**: Use `pandas`, `matplotlib`, `seaborn`
 
-c.	Action: Implement various models using scikit-learn and TensorFlow to predict sentiment classes (positive, neutral, negative).
+---
 
-5.	Outcome:
-Refine the models and explore additional algorithms to improve sentiment prediction accuracy.
+### 📌 Objective 2: Train Sentiment Analysis Models
 
-a.	Time Frame: By December 3, 2024
+* **Time Frame**: By November 12, 2024
+* **Measure**: Accuracy, F1-score, precision, recall
+* **Action**: Implement `Logistic Regression`, `Naive Bayes`, `SVM`, `Random Forest`, and `LSTM`
 
-b.	Measure: Track model accuracy and performance metrics for each iteration.
+---
 
-c.	Action: Optimize hyperparameters and train additional models for comparative evaluation.
+### 📌 Objective 3: Model Refinement
 
-7.	Outcome:
-Finalize the research paper with comprehensive findings and visualizations.
+* **Time Frame**: By December 3, 2024
+* **Measure**: Increased accuracy and stability across iterations
+* **Action**: Tune hyperparameters, test additional models
 
-a.	Time Frame: By December 10, 2024
+---
 
-b.	Measure: Complete a structured research paper with analysis results, visualizations, and model comparisons.
+### 📌 Objective 4: Final Research Paper
 
-c.	Action: Compile results and insights into a polished document.
+* **Time Frame**: By December 10, 2024
+* **Measure**: Complete polished paper with visualizations and model comparisons
+* **Action**: Compile EDA findings, model results, and key takeaways into a formal report
 
-9.	Outcome:
-Prepare and deliver the Final Presentation.
+---
 
-a.	Time Frame: By December 17, 2024
+### 📌 Objective 5: Final Presentation
 
-b.	Measure: Present findings with a clear narrative, supported by visuals and quantitative analysis.
+* **Time Frame**: By December 17, 2024
+* **Measure**: Effective delivery with visuals and narrative
+* **Action**: Design slides, rehearse key talking points
 
-c.	Action: Develop presentation slides and rehearse delivery.
+---
 
+## ✅ Success Criteria
 
-Success Criteria:
-The project will be considered successful if:
-•	Completion Date:
-The research paper is finalized by December 10, 2024, and the final presentation is delivered by December 17, 2024.
+* **📅 Timely Completion**: Research paper by Dec 10, 2024; presentation by Dec 17, 2024
+* **📄 Deliverables**: Clear frequency analysis and sentiment trends with supporting visuals
+* **📊 Model Performance**: At least one model achieves **≥85% accuracy**
+* **💡 Insight Generation**: Discover meaningful, interpretable patterns in Swift’s lyrical evolution
 
-•	Project Deliverables:
-The analysis identifies time-related mentions and provides sentiment trends across albums with clear visualizations and reliable sentiment metrics.
+---
 
-•	Effective Demonstration:
-The sentiment analysis achieves an accuracy of over 85% for one or more models, supported by detailed evaluation metrics (precision, recall, F1-score).
+## ⚠️ Assumptions, Risks & Obstacles
 
-•	Comprehensive Insights:
-Results offer meaningful insights into the evolution of Taylor Swift’s lyrical themes and sentiments, supported by data visualizations that are easy to interpret.
+### 🔍 Assumptions
 
+* Dataset contains accurate, complete lyrics across albums
+* Python libraries and pre-trained models are sufficient
+* Sentiment analysis yields meaningful interpretations despite subjectivity
 
-Assumptions, Risks, Obstacles:
-1.	Assumptions:
-   
-1.1. The lyrics dataset is accurate, complete, and contains all relevant albums.
-  	
-1.2. NLP libraries (e.g., nltk, pandas) and machine learning tools (e.g., scikit-learn, TensorFlow) will be sufficient for the analysis.
+---
 
-1.3. Sentiment analysis results will provide meaningful insights despite subjective interpretations.
+### ⚠️ Risks
 
-2.	Risks:
-   
-2.1. Pre-trained sentiment models may misinterpret context or metaphorical language in the lyrics.
-  	
-2.2. Keyword-based analysis may overlook nuanced time-related references.
+* Pre-trained models may misclassify poetic/metaphorical content
+* Keyword-based detection may miss subtle time references
+* Sentiment scores may vary due to contextual ambiguity
 
-2.3. Ambiguity in sentiment scoring may lead to less precise results.
+---
 
-3.	Obstacles:
-   
-3.1. Preprocessing lyrics data (e.g., removing noise and punctuation) while preserving context may be challenging.
-  	
-3.2. Iterative refinement of models and visualizations may delay progress.
+### 🚧 Obstacles
 
-3.3. Limited time for model optimization and reporting may pose a challenge.
+* Cleaning lyrics while retaining meaning is challenging
+* Tuning models and creating strong visuals may take longer than expected
+* Limited time for hyperparameter optimization
+
+---
+
+## 📬 Contact
+
+For questions, collaborations, or feedback:
+📧 **[abhrajit.breathin@gmail.com](mailto:abhrajit.breathin@gmail.com)**
+🔗 [LinkedIn](https://www.linkedin.com) | 🌐 [Open-talk.co](https://open-talk.co)
+
 
